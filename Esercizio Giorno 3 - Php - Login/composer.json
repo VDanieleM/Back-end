@@ -1,0 +1,15 @@
+{
+    "name": "aaa/esercizio-del-giorno",
+    "autoload": {
+        "psr-4": {
+            "Aaa\\EsercizioDelGiorno\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "VdanieleM",
+            "email": "vdanielem@gmail.com"
+        }
+    ],
+    "require": {}
+}
